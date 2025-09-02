@@ -3,6 +3,9 @@
 🧩 Stage 1: Transcription (Fnl_Whisper)
 
 Generates .txt and .srt files from English or Hindi .mp4 videos using Whisper.
+## Output Data For ASR Whisper
+
+- [ASR out (Google Drive)](https://drive.google.com/drive/folders/1wPsHogxfwwsiD225Bke3d0mHPFoiFdu6?usp=drive_link)
 
 ✅ Features:
 
