@@ -1,4 +1,4 @@
-# 🎬 Video2Video Translation (Eng → Indic)
+# 🎬 Video2Video Translation (Eng/Hin → Indic)
 
 ## 🧩 Stage 1: Transcription (Fnl_Whisper)
 
