@@ -8,5 +8,6 @@
 
 - [MT Outputs (Google Drive)](https://drive.google.com/drive/folders/1le6YmY3LaHXVZEfbHx2TkR0t8nOG6eB0?usp=drive_link)
 
+- [Supported Language Codes IndicTrans2](https://github.com/AI4Bharat/IndicTrans2)
 
 
